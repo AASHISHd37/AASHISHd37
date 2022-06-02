@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AASHISHd37
+- 👀 I’m interested in learning programming and typing faster
+- 🌱 I’m currently learning html, js, solidity
+- 
